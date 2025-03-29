@@ -42,7 +42,7 @@ Essa ficou responsável por criar a parte no qual o app se diferenciaria entre m
 Essa equipe foi responsável por criar como os entregadores utilizariam o app, no geral seria da mesma maneira que clientes normais porém o própio app teria a opção de diferenciar entregadores de clientes normais, opção clicável, caso o cliente usase essa opção ele iria para uma aba de cadastro de entregador, lá ele teria que enviar uma foto da CNH, junto com uma foto no rosto, um contato apto para receber mensagens, e um e-mail apto para contato, todos seriam verificados por código de verificação. Dentro da área do entregador, ele gerenciaria quais entregas ele poderia aceitar, qual a reputação do mercado com entregadores, o mesmo também poderia configurar o valor que ele cobra por entrega.
 Ainda ná area do entregador eles poderiam ver os conatos de outros cadastrados e seria possível mandar mensagem no privado dentro do própio app, além de permitir criação de grupos para sugestões de mudanças no app. 
 
-#Requisitos funcionais
+# Requisitos funcionais
 - O cliente deve poder escolher qualququer mercado que ele queira comprar de três maneiras distintas: pesquisa, avaliação e preço da taxa de entrega.
 - O app deve permitir que clientes não cadastrados visualizem os mercados e seus cátalogos, porém caso tentem comprar serão direcionados pra uma tela de cadastro.
 - O app deve permitir que o cliente adicione qualquer produto em qualquer quantidade no seu carrinho
@@ -61,7 +61,7 @@ Ainda ná area do entregador eles poderiam ver os conatos de outros cadastrados 
 # Requisitos não funcionais:
 - O tempo de resposta do app para qualquer ação deve ser de 2 segundos
 - O app deve funcionar 24/7
-- O app dve suportar 2000 acessos simultâneos ser perca de estabilidade
+- O app deve suportar 2000 acessos simultâneos ser perca de estabilidade
 - O app deve possuir cripitografia de ponta a ponta para garantir segurança na transações do clinte
 - O app deve seguir a lei geral de proteção de dados (LGDP) 
   
